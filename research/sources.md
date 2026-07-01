@@ -41,22 +41,36 @@ This file contains the selected experts for the research project, including link
 **Status:** Sources collected.
 
 ### 3. Aleyda Solis
-**Main focus:** International SEO, AI search optimization, SEO strategy  
-**Why selected:** Experienced SEO consultant with strong practical content around AI search and SEO visibility.  
-**Primary links to collect later:**
-- Personal website
-- AI search articles
-- LinkedIn posts / videos  
-**Status:** Expert selected; sources to be collected.
+**Focus:** AI search optimization, international SEO, SEO strategy  
+**Why selected:** Strong practical expert on AI search visibility and SEO workflows.
+
+**Sources collected:**
+1. AI Search: Where Are We & What Can We Do About It?  
+   Link: https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/  
+   Notes: Useful for understanding how AI search changes SEO visibility, tracking, citations, and brand presence.
+
+2. SEO VS GEO: Optimizing for Traditional vs AI Search  
+   Link: https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/  
+   Notes: Useful for comparing traditional SEO with generative engine optimization.
+
+**Research file:** `/research/other/aleyda-solis-notes.md`  
+**Status:** Sources collected.
 
 ### 4. Ross Simmonds
-**Main focus:** Content distribution, SEO, B2B content marketing  
-**Why selected:** Strong practitioner in content distribution and organic growth for technology and B2B companies.  
-**Primary links to collect later:**
-- Personal website
-- Foundation content
-- YouTube/podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** Content distribution, SEO, B2B content marketing  
+**Why selected:** Strong voice in content distribution and organic growth for B2B and technology companies.
+
+**Sources collected:**
+1. Ross Simmonds — Official Website  
+   Link: https://rosssimmonds.com/  
+   Notes: Useful for confirming his background in content marketing, SEO, content distribution, and organic growth.
+
+2. Content Distribution: Mastering the Art of Visibility in the AI Era  
+   Link: https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/  
+   Notes: Useful for understanding why distribution matters in AI-powered content systems.
+
+**Research file:** `/research/other/ross-simmonds-notes.md`  
+**Status:** Sources collected.
 
 ### 5. Lily Ray
 **Main focus:** SEO, AI search, Google visibility, E-E-A-T  
