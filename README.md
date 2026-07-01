@@ -47,3 +47,51 @@ AI is transforming how businesses produce content for marketing. I find this top
 
 ### Project Goal
 The goal of this research project is to gather authentic insights and perspectives from professionals in the fields of SEO, content marketing, and AI-powered content generation. I aim to use the research in support of a framework for AI-assisted SEO content at a later date.
+
+## Research Project: AI-powered SEO content production
+
+### Selected Topic
+AI-powered SEO content production
+
+### Project Overview
+This project collects and organizes research from 10 practitioners in SEO, AI search, content marketing, and B2B SaaS growth. The goal is to gather high-signal material that could later support a practical playbook for AI-powered SEO content production.
+
+### Why This Topic
+AI is changing how companies research, create, optimize, distribute, and measure SEO content. This is especially important for B2B SaaS companies because organic search can support brand visibility, demand generation, product education, and pipeline growth.
+
+### Research Structure
+The research is organized into the following folders:
+
+- `/research/sources.md` — list of selected experts, links, dates, annotations, and research file references
+- `/research/other/` — research notes, expert summaries, key insights, and playbook ideas
+- `/research/linkedin-posts/` — folder prepared for LinkedIn post collections
+- `/research/youtube-transcripts/` — folder prepared for YouTube transcript collections
+
+### Experts Included
+The research includes the following experts:
+
+1. Ryan Law
+2. Kevin Indig
+3. Aleyda Solis
+4. Ross Simmonds
+5. Lily Ray
+6. Mike King
+7. Andy Crestodina
+8. Alex Birkett
+9. Ben Goodey
+10. Madhav Bhandari
+
+### What Was Collected
+For each expert, I collected background sources, recent content, articles, interviews, or practical resources related to AI-powered SEO content production, AI search, content strategy, organic growth, and B2B SaaS marketing.
+
+### Key Themes Found
+Some recurring themes across the research:
+
+- AI can speed up content research, drafting, and optimization, but human judgment is still necessary.
+- SEO is shifting from only rankings and traffic toward visibility across AI search and answer engines.
+- B2B SaaS content should be connected to pipeline, signups, revenue, and buyer intent.
+- Content distribution is as important as content creation.
+- Strong AI-powered content workflows need research, strategy, quality control, optimization, and performance measurement.
+
+### Current Status
+Initial expert research and source collection are complete. The next step would be to turn the collected research into a practical playbook for AI-powered SEO content production.
