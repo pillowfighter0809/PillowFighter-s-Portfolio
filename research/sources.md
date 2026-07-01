@@ -137,22 +137,33 @@ This file contains the selected experts for the research project, including link
 **Status:** Sources collected.
 
 ### 9. Ben Goodey
-**Main focus:** SEO case studies, AI SEO, revenue-focused content  
-**Why selected:** Useful for practical SEO examples, especially content strategy connected to revenue and business impact.  
-**Primary links to collect later:**
-- Spicy Margarita content
-- LinkedIn posts
-- Podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** SEO case studies, AI SEO, revenue-focused content  
+**Why selected:** Useful for practical examples of SEO strategy and content tied to revenue.
+
+**Sources collected:**
+1. Ben Goodey — Backlinko Author Profile  
+   Link: https://backlinko.com/blog/authors/ben-goodey  
+   Notes: Useful for confirming his background in SEO, content strategy, content marketing, and practical SEO education.
+
+2. 9 Best B2B SaaS SEO Agencies That Are AI Ready  
+   Link: https://www.spicymargarita.co/blog/best-b2b-saas-seo-agencies  
+   Notes: Useful for understanding AI-ready B2B SaaS SEO, AEO/GEO, content quality, and revenue-focused SEO.
+
+**Research file:** `/research/other/ben-goodey-notes.md`  
+**Status:** Sources collected.
 
 ### 10. Madhav Bhandari
-**Main focus:** SaaS marketing, demo-led SEO, organic growth  
-**Why selected:** Relevant for B2B SaaS SEO and content strategies focused on traffic, signups, and revenue.  
-**Primary links to collect later:**
-- LinkedIn posts
-- Podcast interviews
-- SaaS marketing articles  
-**Status:** Expert selected; sources to be collected.
+**Focus:** SaaS marketing, organic growth, demo-led SEO  
+**Why selected:** Relevant for B2B SaaS growth and practical SEO/content systems.
 
-## Collection Notes
-The next step is to collect 1-2 high-signal pieces of content from each expert, prioritizing recent posts, articles, YouTube videos, podcasts, and practical case studies.
+**Sources collected:**
+1. Madhav Bhandari — About Me  
+   Link: https://madhavb.com/about/  
+   Notes: Useful for confirming his SaaS marketing background and experience helping SaaS companies drive traffic, signups, and ARR.
+
+2. How Storylane Grew Organic Traffic 10x Through SEO in 6 Months  
+   Link: https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/  
+   Notes: Useful for practical lessons on scaling organic traffic and connecting SEO to B2B SaaS growth.
+
+**Research file:** `/research/other/madhav-bhandari-notes.md`  
+**Status:** Sources collected.
