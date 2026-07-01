@@ -105,22 +105,36 @@ This file contains the selected experts for the research project, including link
 **Status:** Sources collected.
 
 ### 7. Andy Crestodina
-**Main focus:** Content marketing, SEO, analytics, AI content strategy  
-**Why selected:** Strong practical educator on SEO, analytics, website optimization, and AI-assisted content workflows.  
-**Primary links to collect later:**
-- Orbit Media blog
-- Webinars
-- LinkedIn posts  
-**Status:** Expert selected; sources to be collected.
+**Focus:** Content marketing, SEO, analytics, AI-assisted content  
+**Why selected:** Strong practical educator on website content, SEO, analytics, AI workflows, and conversion-focused content.
+
+**Sources collected:**
+1. Andy Crestodina — Orbit Media Profile  
+   Link: https://www.orbitmedia.com/team/andy-crestodina/  
+   Notes: Useful for confirming his background in SEO, analytics, AI, and website optimization.
+
+2. Orbit Media Blog  
+   Link: https://www.orbitmedia.com/blog/  
+   Notes: Useful for practical content on AI prompts, content marketing, SEO, GA4, web design, and conversion optimization.
+
+**Research file:** `/research/other/andy-crestodina-notes.md`  
+**Status:** Sources collected.
 
 ### 8. Alex Birkett
-**Main focus:** B2B SaaS organic growth, SEO, content strategy  
-**Why selected:** Relevant because of his work in B2B organic growth and SEO programs connected to business outcomes.  
-**Primary links to collect later:**
-- Omniscient Digital content
-- LinkedIn posts
-- Podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** B2B SaaS SEO, content strategy, organic growth  
+**Why selected:** Relevant for connecting SEO content production with business outcomes in SaaS.
+
+**Sources collected:**
+1. Alex Birkett — Personal Author Page  
+   Link: https://alexbirkett.com/author/iamalexbirkettgmail-com/  
+   Notes: Useful for confirming his background in B2B SEO, content programs, pipeline, and revenue-focused organic growth.
+
+2. Omniscient — GEO & AI Search Agency Profile  
+   Link: https://peec.ai/agency-directory/omniscient  
+   Notes: Useful for understanding how B2B brands connect SEO, content, AI search, and business outcomes.
+
+**Research file:** `/research/other/alex-birkett-notes.md`  
+**Status:** Sources collected.
 
 ### 9. Ben Goodey
 **Main focus:** SEO case studies, AI SEO, revenue-focused content  
