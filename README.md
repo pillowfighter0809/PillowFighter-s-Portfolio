@@ -90,6 +90,25 @@ Some recurring themes across the research:
 - AI can speed up content research, drafting, and optimization, but human judgment is still necessary.
 - SEO is shifting from only rankings and traffic toward visibility across AI search and answer engines.
 - B2B SaaS content should be connected to pipeline, signups, revenue, and buyer intent.
+
+## Research Status
+
+- [x] Selected research topic
+- [x] Created research folder structure
+- [x] Selected 10 experts
+- [x] Collected expert sources
+- [x] Created individual expert research notes
+- [x] Added research methodology
+- [x] Added insights summary
+- [x] Added research index
+- [x] Added LinkedIn post collection
+- [x] Added YouTube transcript summary notes
+
+## Future Improvements
+
+- Collect full raw YouTube transcripts through API tools
+- Expand LinkedIn post collection by expert
+- Build a full AI-powered SEO playbook based on the collected research
 - Content distribution is as important as content creation.
 - Strong AI-powered content workflows need research, strategy, quality control, optimization, and performance measurement.
 
