@@ -73,22 +73,36 @@ This file contains the selected experts for the research project, including link
 **Status:** Sources collected.
 
 ### 5. Lily Ray
-**Main focus:** SEO, AI search, Google visibility, E-E-A-T  
-**Why selected:** Strong expert on SEO and AI search visibility, useful for understanding how AI changes search behavior.  
-**Primary links to collect later:**
-- Algorythmic website
-- LinkedIn posts
-- YouTube/podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** SEO, AI search, Google visibility, E-E-A-T  
+**Why selected:** Useful for understanding search quality, AI visibility, and authority-driven content.
+
+**Sources collected:**
+1. The Future of SEO and AI Search — A Conversation with Lily Ray  
+   Link: https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray  
+   Notes: Useful for understanding AI Overviews, AI Mode, tracking limitations, and how LLMs frame brands.
+
+2. A Reflection on SEO, GEO & AI Search in 2025  
+   Link: https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search  
+   Notes: Useful for understanding the rise of generative engine optimization and AI-driven search experiences.
+
+**Research file:** `/research/other/lily-ray-notes.md`  
+**Status:** Sources collected.
 
 ### 6. Mike King
-**Main focus:** Technical SEO, content strategy, generative AI search  
-**Why selected:** Useful for deeper technical perspectives on SEO, content systems, and generative AI.  
-**Primary links to collect later:**
-- iPullRank resources
-- Webinars/decks
-- YouTube/podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** Technical SEO, generative AI search, content systems  
+**Why selected:** Adds a deeper technical SEO and AI-search perspective to the research.
+
+**Sources collected:**
+1. The AI Search Manual  
+   Link: https://ipullrank.com/ai-search-manual  
+   Notes: Useful for understanding conversational search, generative engine optimization, and relevance engineering.
+
+2. How AI Mode Works and How SEO Can Prepare for the Future of Search  
+   Link: https://ipullrank.com/how-ai-mode-works  
+   Notes: Useful for understanding how AI Mode changes search behavior, citations, visibility, and zero-click search.
+
+**Research file:** `/research/other/mike-king-notes.md`  
+**Status:** Sources collected.
 
 ### 7. Andy Crestodina
 **Main focus:** Content marketing, SEO, analytics, AI content strategy  
