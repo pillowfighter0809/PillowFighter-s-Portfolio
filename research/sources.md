@@ -9,22 +9,36 @@ This file contains the selected experts for the research project, including link
 ## Selected Experts
 
 ### 1. Ryan Law
-**Main focus:** AI content, SEO, content strategy  
-**Why selected:** Strong practitioner in SEO and content marketing, especially around AI-assisted content production.  
-**Primary links to collect later:**
-- Ahrefs author page
-- Recent articles about AI content and SEO
-- YouTube/podcast interviews if available  
-**Status:** Expert selected; sources to be collected.
+**Focus:** AI content, SEO, content strategy  
+**Why selected:** Strong practitioner in SEO and content marketing, especially around AI-assisted content production.
+
+**Sources collected:**
+1. Ryan Law — Ahrefs Author Page  
+   Link: https://ahrefs.com/blog/author/ryan-law/  
+   Notes: Useful for confirming his expert background and finding recent SEO/content articles.
+
+2. AI Content Wasn't Good Enough. Now It Is.  
+   Link: https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC  
+   Notes: Useful for understanding how AI-generated content quality has changed and why human editorial judgment still matters.
+
+**Research file:** `/research/other/ryan-law-notes.md`  
+**Status:** Sources collected.
 
 ### 2. Kevin Indig
-**Main focus:** Organic growth, SEO strategy, AI search  
-**Why selected:** Strong voice in organic growth and AI-driven search, especially useful for B2B SaaS SEO strategy.  
-**Primary links to collect later:**
-- Growth Memo newsletter
-- LinkedIn posts
-- Podcast interviews  
-**Status:** Expert selected; sources to be collected.
+**Focus:** Organic growth, SEO strategy, AI search  
+**Why selected:** Useful for understanding how AI is changing search, content visibility, and organic growth.
+
+**Sources collected:**
+1. Growth Memo  
+   Link: https://www.growth-memo.com/  
+   Notes: Useful for research-backed insights on SEO, organic growth, and AI-driven search.
+
+2. Automate — Kevin Indig, SEO in 2025  
+   Link: https://majestic.com/seo-in-2025/kevin-indig  
+   Notes: Useful for understanding how automation and AI can support SEO workflows.
+
+**Research file:** `/research/other/kevin-indig-notes.md`  
+**Status:** Sources collected.
 
 ### 3. Aleyda Solis
 **Main focus:** International SEO, AI search optimization, SEO strategy  
