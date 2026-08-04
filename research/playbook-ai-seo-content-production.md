@@ -242,3 +242,37 @@ The distribution brief should include:
 This idea is inspired by Ross Simmonds’ argument that content distribution is essential in the AI era, but the specific step of adding a distribution brief before drafting is my own addition to the workflow (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
 
 Why it could work: AI makes content production faster, which means the internet will have more similar articles. Planning distribution before drafting helps the team create content that is easier to repurpose, easier to promote, and more useful across channels.
+
+---
+
+## Weaknesses of this playbook
+
+### Weakness 1: The playbook is based on public expert content, not private company data
+
+This playbook is based on publicly available articles, interviews, videos, expert profiles, and content hubs. That makes it useful for building a practical starting framework, but it does not include private performance data from real company campaigns, internal SEO experiments, or confidential conversion data.
+
+This means some recommendations may work well in theory but still need to be tested inside a real B2B SaaS company before being treated as proven.
+
+### Weakness 2: AI search visibility is still difficult to measure
+
+Several experts discuss AI Overviews, AI search, GEO, and changing visibility, but measurement is still not as mature as traditional SEO measurement. Traditional SEO teams can track rankings, impressions, clicks, and conversions more clearly. AI search visibility is harder because AI-generated answers can change by query, user context, platform, and time (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Aleyda Solis, [AI Search: Where Are We & What Can We Do About It?](https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/); source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray)).
+
+Because of this, the playbook recommends tracking AI visibility, but it cannot guarantee that the measurement will be perfectly accurate.
+
+### Weakness 3: The playbook assumes a B2B SaaS context
+
+The playbook is strongest for B2B SaaS teams because many selected sources connect SEO content to signups, demos, pipeline, revenue, and product education (source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
+
+It may be less useful for ecommerce, local SEO, news websites, affiliate websites, or consumer media brands because their content goals, conversion paths, and SEO strategies can be different.
+
+### Weakness 4: The playbook does not test exact AI tools
+
+This playbook explains how AI should be used inside the SEO content workflow, but it does not compare specific AI tools in detail. It does not test whether ChatGPT, Claude, Gemini, Perplexity, Jasper, Surfer, Clearscope, or other tools produce better results for SEO content production.
+
+Because of this, teams should treat the workflow as tool-flexible. The process matters more than the exact tool.
+
+### Weakness 5: The playbook may become outdated
+
+AI search, AI Overviews, Google updates, and SEO best practices are changing quickly. Recommendations about AI visibility, citations, and content structure may need to be updated as search engines and AI platforms change (source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works); source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/)).
+
+To reduce this weakness, the playbook should be reviewed every 3-6 months and updated when AI search behavior or SEO measurement changes.
