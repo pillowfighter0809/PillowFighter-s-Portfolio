@@ -276,3 +276,33 @@ Because of this, teams should treat the workflow as tool-flexible. The process m
 AI search, AI Overviews, Google updates, and SEO best practices are changing quickly. Recommendations about AI visibility, citations, and content structure may need to be updated as search engines and AI platforms change (source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works); source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/)).
 
 To reduce this weakness, the playbook should be reviewed every 3-6 months and updated when AI search behavior or SEO measurement changes.
+
+---
+
+## Who I would NOT recommend following and why
+
+I would not completely reject any of the 10 experts because each one contributed something useful to this playbook. However, I would not recommend following some of them as the main source for AI-powered SEO content production without additional context.
+
+### 1. Madhav Bhandari — useful for SaaS growth, but not enough as a general AI SEO source
+
+I would not recommend using Madhav Bhandari as the main expert for AI-powered SEO content production. His material is useful for understanding B2B SaaS growth, demo-led SEO, organic traffic growth, signups, and ARR connection. However, the collected source is mainly a company growth case study about Storylane, not a broad framework for AI-assisted SEO workflows or AI search optimization (source: Madhav Bhandari, [How Storylane Grew Organic Traffic 10x Through SEO in 6 Months](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
+
+Why I would be cautious: one strong growth story can be inspiring, but it may not be repeatable for every company. The result depends on the company, market, product, team, timing, and execution. I would use his insights for business-outcome thinking, but I would not use him as the main source for AI SEO process design.
+
+### 2. Ben Goodey — useful for practical SEO, but the collected source has commercial bias risk
+
+I would also be cautious about recommending Ben Goodey as a primary source for this specific playbook. His work is useful for practical SEO and B2B SaaS content strategy, but one of the collected sources is an agency list about AI-ready B2B SaaS SEO agencies. Because agency lists can include commercial positioning, they should be treated carefully and not used as neutral evidence by themselves (source: Ben Goodey, [9 Best B2B SaaS SEO Agencies That Are AI Ready](https://www.spicymargarita.co/blog/best-b2b-saas-seo-agencies); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey)).
+
+Why I would be cautious: the source is still useful for understanding how agencies frame AI SEO, AEO, GEO, content quality, and revenue-focused SEO. However, I would not treat it as fully neutral research. I would cross-check his recommendations with experts who focus more directly on AI search systems, such as Aleyda Solis, Lily Ray, Mike King, and Kevin Indig.
+
+### 3. Ross Simmonds — strong for distribution, but not enough for technical AI search
+
+Ross Simmonds is one of the most useful experts for content distribution. I would recommend him for understanding why publishing content is not enough and why teams need repurposing, promotion, and visibility planning (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
+
+However, I would not recommend using him alone for the technical parts of AI search optimization. His strength is distribution and content visibility, while Aleyda Solis and Mike King are stronger sources for AI search, GEO, AI Overviews, AI Mode, and how AI systems may extract or cite information (source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/); source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works)).
+
+### Final judgment
+
+If I had to choose one person I would least recommend as a primary source for this exact topic, I would choose Madhav Bhandari. This is not because his advice is bad. It is because the collected material is more about a specific SaaS growth case study than a complete AI-powered SEO content production system.
+
+For this playbook, the strongest core experts are Aleyda Solis, Lily Ray, Mike King, Kevin Indig, Ryan Law, Andy Crestodina, and Ross Simmonds. They are more directly connected to AI search, SEO workflows, content quality, AI-assisted production, measurement, and distribution.
