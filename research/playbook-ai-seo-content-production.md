@@ -311,60 +311,67 @@ For this playbook, the strongest core experts are Aleyda Solis, Lily Ray, Mike K
 
 ## Sources Used
 
-The playbook is based on the following expert sources and research notes:
+This playbook is based on 10 main expert sources. I selected one primary source for each expert to keep the source base focused and avoid unnecessary volume.
 
 1. Ryan Law  
-   - Ahrefs Author Page: https://ahrefs.com/blog/author/ryan-law/  
-   - LinkedIn post: AI Content Wasn't Good Enough. Now It Is.  
-   - Research notes: `/research/other/ryan-law-notes.md`
+   Source: AI Content Wasn't Good Enough. Now It Is.  
+   Link: https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC  
+   Date used: accessed 04.08.2026  
+   Used for: AI-assisted content quality, human editorial judgment, and AI drafting limits.
 
 2. Kevin Indig  
-   - Growth Memo: https://www.growth-memo.com/  
-   - Majestic SEO in 2025: https://majestic.com/seo-in-2025/kevin-indig  
-   - YouTube: AI Overview Impact on SEO: https://www.youtube.com/watch?v=NCbgNMbpDCY  
-   - Research notes: `/research/other/kevin-indig-notes.md`
+   Source: AI Overview Impact on SEO  
+   Link: https://www.youtube.com/watch?v=NCbgNMbpDCY  
+   Date used: collected 01.07.2026  
+   Used for: AI Overviews, changing SEO visibility, traffic impact, and AI search measurement.
 
 3. Aleyda Solis  
-   - AI Search: Where Are We & What Can We Do About It?: https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/  
-   - SEO VS GEO: https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/  
-   - YouTube: Traditional SEO vs AI Search Optimization: https://www.youtube.com/watch?v=-4cu882OJ8E  
-   - Research notes: `/research/other/aleyda-solis-notes.md`
+   Source: SEO VS GEO: Optimizing for Traditional vs AI Search  
+   Link: https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/  
+   Date used: accessed 04.08.2026  
+   Used for: traditional SEO vs AI search optimization, GEO, AEO, structured content, and AI visibility.
 
 4. Ross Simmonds  
-   - Official website: https://rosssimmonds.com/  
-   - Content Distribution: Mastering the Art of Visibility in the AI Era: https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/  
-   - YouTube: Content Distribution in the Age of AI: https://www.youtube.com/watch?v=VXxFJAg7YJw  
-   - Research notes: `/research/other/ross-simmonds-notes.md`
+   Source: Content Distribution: Mastering the Art of Visibility in the AI Era  
+   Link: https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/  
+   Date used: accessed 04.08.2026  
+   Used for: content distribution, repurposing, visibility, and promotion after publication.
 
 5. Lily Ray  
-   - The Future of SEO and AI Search: https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray  
-   - A Reflection on SEO, GEO & AI Search in 2025: https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search  
-   - Research notes: `/research/other/lily-ray-notes.md`
+   Source: The Future of SEO and AI Search  
+   Link: https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray  
+   Date used: accessed 04.08.2026  
+   Used for: AI search, search quality, authority, E-E-A-T, and the risks of generic AI content.
 
 6. Mike King  
-   - The AI Search Manual: https://ipullrank.com/ai-search-manual  
-   - How AI Mode Works: https://ipullrank.com/how-ai-mode-works  
-   - Research notes: `/research/other/mike-king-notes.md`
+   Source: How AI Mode Works and How SEO Can Prepare for the Future of Search  
+   Link: https://ipullrank.com/how-ai-mode-works  
+   Date used: accessed 04.08.2026  
+   Used for: AI Mode, AI search behavior, citations, search visibility, and technical AI search preparation.
 
 7. Andy Crestodina  
-   - Orbit Media Profile: https://www.orbitmedia.com/team/andy-crestodina/  
-   - Orbit Media Blog: https://www.orbitmedia.com/blog/  
-   - Research notes: `/research/other/andy-crestodina-notes.md`
+   Source: Orbit Media Blog  
+   Link: https://www.orbitmedia.com/blog/  
+   Date used: accessed 04.08.2026  
+   Used for: content marketing, website optimization, analytics, SEO workflow, and practical content improvement.
 
 8. Alex Birkett  
-   - Author page: https://alexbirkett.com/author/iamalexbirkettgmail-com/  
-   - Omniscient GEO & AI Search Agency Profile: https://peec.ai/agency-directory/omniscient  
-   - Research notes: `/research/other/alex-birkett-notes.md`
+   Source: Alex Birkett Author Page  
+   Link: https://alexbirkett.com/author/iamalexbirkettgmail-com/  
+   Date used: accessed 04.08.2026  
+   Used for: B2B SaaS SEO, content strategy, business value, and revenue-focused organic growth.
 
 9. Ben Goodey  
-   - Backlinko Author Profile: https://backlinko.com/blog/authors/ben-goodey  
-   - 9 Best B2B SaaS SEO Agencies That Are AI Ready: https://www.spicymargarita.co/blog/best-b2b-saas-seo-agencies  
-   - Research notes: `/research/other/ben-goodey-notes.md`
+   Source: 9 Best B2B SaaS SEO Agencies That Are AI Ready  
+   Link: https://www.spicymargarita.co/blog/best-b2b-saas-seo-agencies  
+   Date used: accessed 04.08.2026  
+   Used for: AI-ready B2B SaaS SEO, AEO/GEO positioning, content quality, and revenue-focused SEO.
 
 10. Madhav Bhandari  
-   - About page: https://madhavb.com/about/  
-   - Storylane SEO Growth Interview: https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/  
-   - Research notes: `/research/other/madhav-bhandari-notes.md`
+   Source: How Storylane Grew Organic Traffic 10x Through SEO in 6 Months  
+   Link: https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/  
+   Date used: accessed 04.08.2026  
+   Used for: SaaS organic growth, demo-led SEO, signups, ARR connection, and business-outcome measurement.
 
    - ---
 
