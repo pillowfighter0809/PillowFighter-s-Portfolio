@@ -365,3 +365,15 @@ The playbook is based on the following expert sources and research notes:
    - About page: https://madhavb.com/about/  
    - Storylane SEO Growth Interview: https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/  
    - Research notes: `/research/other/madhav-bhandari-notes.md`
+
+   - ---
+
+## Source quality and citation note
+
+This playbook uses public expert content, including articles, interviews, videos, expert profiles, newsletters, and agency resources. I treated these sources differently depending on their strength.
+
+I treated specific articles, interviews, and videos as stronger evidence because they contain direct arguments or practical recommendations. I treated expert profile pages and general blog pages as background sources only, mainly for confirming the expert’s relevance and area of expertise.
+
+I was more cautious with sources that may have commercial bias, such as agency lists, service pages, or company growth case studies. These sources can still be useful, but I did not treat them as neutral proof by themselves. For example, Ben Goodey’s agency list was useful for understanding how AI-ready SEO agencies position themselves, but I would cross-check it with more neutral or technical experts before turning it into a recommendation.
+
+When publication dates were not clearly visible, I used the source collection date from my research notes instead of pretending that I knew the original publication date.
