@@ -112,3 +112,40 @@ Minimum metrics:
 - AI Overview or AI search visibility
 - Brand mentions in AI-generated answers
 - Content engagement after distribution
+
+## Quality Control Checklist
+
+Before publishing any AI-assisted SEO content, use this checklist.
+
+### Strategy check
+
+- The topic connects to a real business goal such as signups, demo requests, pipeline, product education, or revenue, not only traffic (source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey)).
+- The target reader, search intent, and product angle are clear before drafting starts (source: Ryan Law, [Ahrefs Author Page](https://ahrefs.com/blog/author/ryan-law/); source: Andy Crestodina, [Orbit Media Blog](https://www.orbitmedia.com/blog/)).
+
+### AI usage check
+
+- AI was used for support tasks such as research, outlining, summarizing, rewriting, FAQ generation, or first drafts, not as the final publisher (source: Ryan Law, [AI Content Wasn't Good Enough. Now It Is.](https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC)).
+- The article was reviewed by a human editor before publishing (source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray)).
+- Generic AI-written paragraphs were rewritten with clearer examples, stronger arguments, or company-specific experience (source: Lily Ray, [A Reflection on SEO, GEO & AI Search in 2025](https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search); source: Mike King, [The AI Search Manual](https://ipullrank.com/ai-search-manual)).
+
+### Accuracy check
+
+- Every factual claim is checked against a credible source before publishing (source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray)).
+- External sources are linked when the content makes a factual, technical, statistical, or market-related claim (source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/)).
+- The content does not invent data, expert quotes, statistics, or customer examples (source: Lily Ray, [A Reflection on SEO, GEO & AI Search in 2025](https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search)).
+
+### SEO and AI search check
+
+- The page includes clear headings, direct answers, definitions, examples, and structured explanations (source: Aleyda Solis, [AI Search: Where Are We & What Can We Do About It?](https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/); source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works)).
+- The article is useful for both traditional search engines and AI-generated search experiences (source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/)).
+- The content includes internal links to related company pages where relevant (source: Andy Crestodina, [Orbit Media Blog](https://www.orbitmedia.com/blog/)).
+
+### Distribution check
+
+- The article has a distribution plan before or immediately after publishing (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
+- The article can be repurposed into LinkedIn posts, newsletters, short videos, sales material, or internal enablement content (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
+
+### Measurement check
+
+- The team tracks rankings, organic traffic, conversions, signups, demo requests, and pipeline influence (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
+- The team also tracks AI search visibility, brand mentions, and whether the content appears in AI-generated answers (source: Aleyda Solis, [Traditional SEO vs AI Search Optimization](https://www.youtube.com/watch?v=-4cu882OJ8E), collected 01.07.2026; source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray)).
