@@ -206,3 +206,39 @@ I rejected this idea because companies still need strong technical SEO, useful c
 I also rejected the idea that SEO content success should be judged mainly by organic traffic. Kevin Indig’s work on AI Overviews shows that search visibility and clicks are changing, while B2B SaaS-focused experts such as Alex Birkett, Ben Goodey, and Madhav Bhandari connect SEO more closely to business outcomes such as signups, demo requests, pipeline, and revenue (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey); source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
 
 I rejected traffic-only measurement because it can reward content that attracts visitors but does not support business growth. In this playbook, traffic is only one metric. It should be measured together with conversions, signups, demo requests, pipeline influence, and AI search visibility.
+
+## My original ideas
+
+### Original idea 1: Create an “AI citation target” section inside important SEO articles
+
+One original idea I would add to this playbook is to create a small “AI citation target” section inside high-value SEO articles. This section would summarize the article’s main answer in a very clear, source-backed format that is easy for both humans and AI systems to understand.
+
+Example structure:
+
+- Direct answer to the main question
+- 3-5 key points
+- Short definition of important terms
+- Credible external sources
+- Company-specific insight or example
+- Last updated date
+
+I did not find this exact workflow in my sources. However, it connects to Aleyda Solis’ and Mike King’s discussion of AI search visibility, citations, and how AI systems extract and present information from web content (source: Aleyda Solis, [AI Search: Where Are We & What Can We Do About It?](https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/); source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works)).
+
+Why it could work: AI search systems often need concise, structured, trustworthy information to summarize. If an article includes a clear citation-friendly section, it may improve the chance that the brand’s explanation is understood, reused, or cited in AI-generated answers. This also improves the human reading experience because readers can quickly understand the main point before reading the full article.
+
+### Original idea 2: Add a “distribution brief” before writing the article
+
+Another original idea is to create a distribution brief before the article is written, not after publication. Usually, teams write the article first and then think about promotion later. I would reverse this by planning distribution angles during the content brief stage.
+
+The distribution brief should include:
+
+- One LinkedIn post angle
+- One newsletter angle
+- One short video idea
+- One sales enablement use case
+- One community or partner channel
+- One internal team that could reuse the content
+
+This idea is inspired by Ross Simmonds’ argument that content distribution is essential in the AI era, but the specific step of adding a distribution brief before drafting is my own addition to the workflow (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
+
+Why it could work: AI makes content production faster, which means the internet will have more similar articles. Planning distribution before drafting helps the team create content that is easier to repurpose, easier to promote, and more useful across channels.
