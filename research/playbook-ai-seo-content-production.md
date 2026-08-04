@@ -186,3 +186,23 @@ Kevin Indig focuses on how AI Overviews and AI search can change rankings, visib
 Alex Birkett, Ben Goodey, and Madhav Bhandari are more focused on connecting SEO content to B2B SaaS business outcomes such as signups, pipeline, revenue, product education, and growth (source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey); source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
 
 My position: I would not use traffic as the main success metric. Traffic is useful, but for B2B SaaS it should be connected to business outcomes. The better approach is to track traffic, rankings, AI visibility, conversions, signups, demo requests, and pipeline influence together.
+
+## What I rejected and why
+
+### Rejected idea 1: Publishing more AI-generated content just because AI makes production faster
+
+One idea I rejected is using AI mainly to increase publishing volume. AI can help teams produce outlines, drafts, summaries, and repurposed content faster, but publishing more content does not automatically create better SEO results. Ross Simmonds’ work on content distribution suggests that visibility depends not only on creation, but also on how content is distributed and repurposed across channels (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/)).
+
+I rejected this idea because high-volume AI publishing can lead to generic content, weak differentiation, and poor trust. For this playbook, I chose a slower but stronger workflow: research first, AI-assisted drafting second, then human editing, originality, distribution, and measurement.
+
+### Rejected idea 2: Treating AI search optimization as a completely separate replacement for SEO
+
+Another idea I rejected is treating GEO, AEO, or AI search optimization as if it fully replaces traditional SEO. Aleyda Solis and Mike King both show that AI search is changing visibility, citations, and how users interact with answers, but their work does not mean that traditional SEO fundamentals should be ignored (source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/); source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works)).
+
+I rejected this idea because companies still need strong technical SEO, useful content, internal linking, conversion paths, and measurement. My playbook treats AI search optimization as an additional layer on top of traditional SEO, not as a replacement.
+
+### Rejected idea 3: Measuring success mainly through traffic
+
+I also rejected the idea that SEO content success should be judged mainly by organic traffic. Kevin Indig’s work on AI Overviews shows that search visibility and clicks are changing, while B2B SaaS-focused experts such as Alex Birkett, Ben Goodey, and Madhav Bhandari connect SEO more closely to business outcomes such as signups, demo requests, pipeline, and revenue (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey); source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
+
+I rejected traffic-only measurement because it can reward content that attracts visitors but does not support business growth. In this playbook, traffic is only one metric. It should be measured together with conversions, signups, demo requests, pipeline influence, and AI search visibility.
