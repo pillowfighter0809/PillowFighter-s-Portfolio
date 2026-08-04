@@ -306,3 +306,62 @@ However, I would not recommend using him alone for the technical parts of AI sea
 If I had to choose one person I would least recommend as a primary source for this exact topic, I would choose Madhav Bhandari. This is not because his advice is bad. It is because the collected material is more about a specific SaaS growth case study than a complete AI-powered SEO content production system.
 
 For this playbook, the strongest core experts are Aleyda Solis, Lily Ray, Mike King, Kevin Indig, Ryan Law, Andy Crestodina, and Ross Simmonds. They are more directly connected to AI search, SEO workflows, content quality, AI-assisted production, measurement, and distribution.
+
+---
+
+## Sources Used
+
+The playbook is based on the following expert sources and research notes:
+
+1. Ryan Law  
+   - Ahrefs Author Page: https://ahrefs.com/blog/author/ryan-law/  
+   - LinkedIn post: AI Content Wasn't Good Enough. Now It Is.  
+   - Research notes: `/research/other/ryan-law-notes.md`
+
+2. Kevin Indig  
+   - Growth Memo: https://www.growth-memo.com/  
+   - Majestic SEO in 2025: https://majestic.com/seo-in-2025/kevin-indig  
+   - YouTube: AI Overview Impact on SEO: https://www.youtube.com/watch?v=NCbgNMbpDCY  
+   - Research notes: `/research/other/kevin-indig-notes.md`
+
+3. Aleyda Solis  
+   - AI Search: Where Are We & What Can We Do About It?: https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/  
+   - SEO VS GEO: https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/  
+   - YouTube: Traditional SEO vs AI Search Optimization: https://www.youtube.com/watch?v=-4cu882OJ8E  
+   - Research notes: `/research/other/aleyda-solis-notes.md`
+
+4. Ross Simmonds  
+   - Official website: https://rosssimmonds.com/  
+   - Content Distribution: Mastering the Art of Visibility in the AI Era: https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/  
+   - YouTube: Content Distribution in the Age of AI: https://www.youtube.com/watch?v=VXxFJAg7YJw  
+   - Research notes: `/research/other/ross-simmonds-notes.md`
+
+5. Lily Ray  
+   - The Future of SEO and AI Search: https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray  
+   - A Reflection on SEO, GEO & AI Search in 2025: https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search  
+   - Research notes: `/research/other/lily-ray-notes.md`
+
+6. Mike King  
+   - The AI Search Manual: https://ipullrank.com/ai-search-manual  
+   - How AI Mode Works: https://ipullrank.com/how-ai-mode-works  
+   - Research notes: `/research/other/mike-king-notes.md`
+
+7. Andy Crestodina  
+   - Orbit Media Profile: https://www.orbitmedia.com/team/andy-crestodina/  
+   - Orbit Media Blog: https://www.orbitmedia.com/blog/  
+   - Research notes: `/research/other/andy-crestodina-notes.md`
+
+8. Alex Birkett  
+   - Author page: https://alexbirkett.com/author/iamalexbirkettgmail-com/  
+   - Omniscient GEO & AI Search Agency Profile: https://peec.ai/agency-directory/omniscient  
+   - Research notes: `/research/other/alex-birkett-notes.md`
+
+9. Ben Goodey  
+   - Backlinko Author Profile: https://backlinko.com/blog/authors/ben-goodey  
+   - 9 Best B2B SaaS SEO Agencies That Are AI Ready: https://www.spicymargarita.co/blog/best-b2b-saas-seo-agencies  
+   - Research notes: `/research/other/ben-goodey-notes.md`
+
+10. Madhav Bhandari  
+   - About page: https://madhavb.com/about/  
+   - Storylane SEO Growth Interview: https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/  
+   - Research notes: `/research/other/madhav-bhandari-notes.md`
