@@ -147,5 +147,42 @@ Before publishing any AI-assisted SEO content, use this checklist.
 
 ### Measurement check
 
+
 - The team tracks rankings, organic traffic, conversions, signups, demo requests, and pipeline influence (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
 - The team also tracks AI search visibility, brand mentions, and whether the content appears in AI-generated answers (source: Aleyda Solis, [Traditional SEO vs AI Search Optimization](https://www.youtube.com/watch?v=-4cu882OJ8E), collected 01.07.2026; source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray)).
+
+- ---
+
+## Where experts disagree
+
+### Disagreement 1: How much should AI be trusted for content creation?
+
+Ryan Law is more optimistic about the improvement of AI-generated content quality. His LinkedIn post argues that AI content used to be weak, but has become much better and more usable for content teams (source: Ryan Law, [AI Content Wasn't Good Enough. Now It Is.](https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC)).
+
+Lily Ray is more cautious. Her work focuses more on search quality, AI search, authority, and the risk of low-quality or generic content being treated poorly by search systems and users (source: Lily Ray, [The Future of SEO and AI Search](https://peec.ai/blog/the-future-of-seo-and-ai-search-a-conversation-with-lily-ray); source: Lily Ray, [A Reflection on SEO, GEO & AI Search in 2025](https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search)).
+
+My position: I agree with both, but I would follow Lily Ray’s caution more strongly. AI can be used for outlines, drafts, summaries, and rewriting, but I would not publish AI-generated content without human editing, fact-checking, and original examples. This is safer because SEO content needs trust, accuracy, and usefulness, not only speed.
+
+### Disagreement 2: Should SEO teams focus more on traditional SEO or AI search optimization?
+
+Andy Crestodina’s content is more focused on practical website SEO, analytics, content marketing, conversion optimization, and improving existing website performance (source: Andy Crestodina, [Orbit Media Blog](https://www.orbitmedia.com/blog/)).
+
+Aleyda Solis and Mike King focus more directly on how AI search, generative engines, AI Overviews, and AI Mode are changing search visibility. They recommend thinking beyond traditional rankings and considering whether content can be understood, cited, and surfaced by AI systems (source: Aleyda Solis, [AI Search: Where Are We & What Can We Do About It?](https://www.aleydasolis.com/en/search-engine-optimization/ai-search-trends/); source: Aleyda Solis, [SEO VS GEO](https://www.aleydasolis.com/en/search-engine-optimization/seo-vs-geo-optimizing-for-traditional-vs-ai-search/); source: Mike King, [The AI Search Manual](https://ipullrank.com/ai-search-manual); source: Mike King, [How AI Mode Works](https://ipullrank.com/how-ai-mode-works)).
+
+My position: I would not replace traditional SEO with AI search optimization. I would combine both. Traditional SEO is still needed for technical quality, rankings, traffic, and conversion. AI search optimization should be added on top through clear structure, direct answers, citations, definitions, and stronger authority signals.
+
+### Disagreement 3: Is content creation or content distribution more important?
+
+Ryan Law and Andy Crestodina are useful for improving the content production process itself: research, briefs, AI-assisted drafting, editing, and optimization (source: Ryan Law, [Ahrefs Author Page](https://ahrefs.com/blog/author/ryan-law/); source: Andy Crestodina, [Orbit Media Blog](https://www.orbitmedia.com/blog/)).
+
+Ross Simmonds puts more emphasis on distribution. His work argues that publishing content is not enough, especially in the AI era where producing more content is easier. Content needs to be repurposed and distributed across channels to actually reach the audience (source: Ross Simmonds, [Content Distribution: Mastering the Art of Visibility in the AI Era](https://kpplaybook.com/resources/content-distribution-mastering-the-art-of-visibility-in-the-ai-era/); source: Ross Simmonds, [Official Website](https://rosssimmonds.com/)).
+
+My position: I side more with Ross Simmonds here. AI makes content creation faster, so the bottleneck becomes attention and distribution. A strong AI SEO workflow should include distribution from the beginning, not after the article is already published.
+
+### Disagreement 4: Should success be measured by traffic or business outcomes?
+
+Kevin Indig focuses on how AI Overviews and AI search can change rankings, visibility, clicks, and organic traffic measurement (source: Kevin Indig, [AI Overview Impact on SEO](https://www.youtube.com/watch?v=NCbgNMbpDCY), collected 01.07.2026; source: Kevin Indig, [Growth Memo](https://www.growth-memo.com/)).
+
+Alex Birkett, Ben Goodey, and Madhav Bhandari are more focused on connecting SEO content to B2B SaaS business outcomes such as signups, pipeline, revenue, product education, and growth (source: Alex Birkett, [Alex Birkett Author Page](https://alexbirkett.com/author/iamalexbirkettgmail-com/); source: Ben Goodey, [Backlinko Author Profile](https://backlinko.com/blog/authors/ben-goodey); source: Madhav Bhandari, [Storylane SEO Growth Interview](https://exitfive.com/podcast/how-storylane-grew-organic-traffic-10x-through-seo-in-6-months-with-madhav-bhandari-head-of-marketing-at-storylane/)).
+
+My position: I would not use traffic as the main success metric. Traffic is useful, but for B2B SaaS it should be connected to business outcomes. The better approach is to track traffic, rankings, AI visibility, conversions, signups, demo requests, and pipeline influence together.
