@@ -1,4 +1,11 @@
 # AI Tools Setup Portfolio Project
+## Main Playbook / SOP
+
+The final playbook for this project is available here:
+
+[AI-Powered SEO Content Production Playbook](research/playbook-ai-seo-content-production.md)
+
+This playbook turns the collected expert research into a practical SOP for AI-assisted SEO content production. It includes a workflow, quality control checklist, expert disagreements, rejected ideas, original ideas, weaknesses, and source judgment.
 
 ## Overview
 
