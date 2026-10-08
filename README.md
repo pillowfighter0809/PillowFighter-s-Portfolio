@@ -1,3 +1,18 @@
+# Crownbound — 3D Arena Game
+
+An original, playable browser game combining tower battles, summonable troops, and free first-person movement in a blocky floating arena.
+
+```sh
+npm install
+npm run dev
+```
+
+Click **Enter the arena** to play. Use **WASD** to move, **mouse** to look, **Space** to jump, **Shift** to sprint, and **left click** to swing your sword. Choose a card with **1–4** and deploy with **E** or **right click**. **V** switches camera view; **Escape** pauses.
+
+See [the game guide](GAME.md) for the rules, controls, and build commands.
+
+---
+
 # AI Tools Setup Portfolio Project
 ## Main Playbook / SOP
 

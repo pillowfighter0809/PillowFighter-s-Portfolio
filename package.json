@@ -1,0 +1,22 @@
+{
+  "name": "crownbound",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "build:standalone": "vite build --config vite.standalone.config.js",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test src/battle.test.js"
+  },
+  "dependencies": {
+    "@fontsource/barlow": "^5.3.0",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7",
+    "vite-plugin-singlefile": "^2.3.3"
+  }
+}

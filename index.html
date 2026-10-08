@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#142b31" />
+    <meta name="description" content="Your army. Your arena. Step into Crownbound, a free-roaming 3D tactical arena game." />
+    <title>Crownbound — The arena is yours</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="menu">
+    <svg class="icon-library" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+      <symbol id="i-crown" viewBox="0 0 24 24"><path d="m3 6 5 4 4-7 4 7 5-4-2 13H5L3 6Z" fill="currentColor"/><path d="M6 22h12" stroke="currentColor" stroke-width="2"/></symbol>
+      <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-sword" viewBox="0 0 24 24"><path d="m8 16 11-12 2-1-1 5L9 19m-4-6 7 7m-6-3-4 4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-sound" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4Zm12-1a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-pause" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></symbol>
+      <symbol id="i-help" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M9 9a3 3 0 0 1 6 0c0 2-3 2-3 4m0 3v.1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 21 3.5 12.5C-2 7 6 0 12 7c6-7 14 0 8.5 5.5L12 21Z" fill="currentColor"/></symbol>
+      <symbol id="i-gem" viewBox="0 0 24 24"><path d="m12 2 8 10-8 10L4 12 12 2Z" fill="currentColor"/><path d="m12 5 4 7h-4V5Z" fill="#fff" opacity=".5"/></symbol>
+      <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-move" viewBox="0 0 24 24"><path d="M12 3v18M3 12h18m-12-6 3-3 3 3m3 3 3 3-3 3m-3 3-3 3-3-3M6 9l-3 3 3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    </svg>
+
+    <main id="world" aria-label="Crownbound 3D arena"></main>
+    <div class="screen-vignette" aria-hidden="true"></div>
+    <div id="damage-flash" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Crownbound home">
+        <span class="brand-mark"><svg><use href="#i-crown"/></svg></span>
+        <span>CROWNBOUND<span class="brand-edition">THE FREE-ROAM ARENA</span></span>
+      </a>
+
+      <div class="match-board" aria-label="Match score and time">
+        <div class="team-score team-blue"><svg><use href="#i-crown"/></svg><span id="blue-score">0</span><span class="team-name">YOU</span></div>
+        <div class="match-clock"><span class="clock-label">QUICK BATTLE</span><span id="match-time">03:00</span></div>
+        <div class="team-score team-red"><span class="team-name">RIVAL</span><span id="red-score">0</span><svg><use href="#i-crown"/></svg></div>
+      </div>
+
+      <nav class="utility-buttons" aria-label="Game settings">
+        <button class="icon-button" id="sound-button" aria-label="Toggle game sound" aria-pressed="true" title="Toggle sound"><svg><use href="#i-sound"/></svg></button>
+        <button class="icon-button" id="help-button" aria-label="View controls" title="How to play"><svg><use href="#i-help"/></svg></button>
+        <button class="icon-button" id="pause-button" aria-label="Pause game" title="Pause (Escape)"><svg><use href="#i-pause"/></svg></button>
+      </nav>
+    </header>
+
+    <div id="objective-banner" aria-label="Battle objective"><svg aria-hidden="true"><use href="#i-crown"/></svg><span>Destroy the rival king</span></div>
+    <aside id="minimap-panel" aria-label="Battlefield overview">
+      <div class="minimap-heading"><span>FIELD MAP</span><span class="minimap-north">N <span aria-hidden="true">↑</span></span></div>
+      <canvas id="minimap" width="152" height="204" aria-label="Positions of your squad, rivals, and towers"></canvas>
+      <div class="minimap-legend"><span><i class="legend-friendly"></i>YOUR SQUAD</span><span><i class="legend-enemy"></i>RIVAL</span></div>
+    </aside>
+
+    <section id="menu" aria-labelledby="game-title">
+      <div class="menu-content">
+        <div class="eyebrow"><span class="live-dot"></span> THE ARENA IS YOURS</div>
+        <h1 id="game-title">CROWN<span>BOUND<span class="title-period">.</span></span></h1>
+        <p class="hero-tagline">Build your push.<br/>Lead the charge.</p>
+        <p class="hero-description">A new perspective on tower battles. Summon your squad, roam the battlefield, and take the crown.</p>
+        <button id="play-button" class="play-button"><span class="play-icon">&#9654;</span><span>Enter the arena<small>SOLO BATTLE · 3 MINUTES</small></span><svg><use href="#i-arrow"/></svg></button>
+        <div class="menu-controls"><span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move</span><span class="control-divider"></span><span><kbd>SPACE</kbd> to jump</span></div>
+      </div>
+      <div class="arena-caption"><span class="caption-line"></span><div><span class="eyebrow">YOUR NEXT BATTLEGROUND</span><strong>Verdant Valley</strong><span class="arena-description">Two kingdoms. One crown.</span></div><span class="arena-number">01</span></div>
+      <div class="field-note"><span class="note-line"></span> STRATEGY MEETS FREEDOM <span class="note-dot">·</span> BUILT FOR PLAY</div>
+    </section>
+
+    <div id="crosshair" aria-hidden="true"><span></span><span></span><i></i></div>
+    <div id="hitmarker" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    <div id="combat-label" class="hidden" role="status" aria-live="polite"></div>
+    <div id="toast" class="hidden" role="status" aria-live="polite"></div>
+
+    <section id="battle-hud" aria-label="Battle controls">
+      <div class="player-status">
+        <div class="health-info"><svg><use href="#i-heart"/></svg><span>YOUR HEALTH</span><strong id="health-value">100</strong></div>
+        <div class="health-track"><div id="health-fill"></div></div>
+      </div>
+
+      <div class="deck-heading"><span><span class="deck-dot"></span> YOUR BATTLE DECK</span><span class="deck-heading-tip">FOUR CARDS. ENDLESS POSSIBILITIES.</span></div>
+      <div class="deck-wrapper">
+        <div id="cards" class="cards">
+          <button class="battle-card selected" data-card="knight" aria-label="Select Bladeguard, 3 elixir, key 1" aria-pressed="true">
+            <span class="card-cost"><svg><use href="#i-gem"/></svg><b>3</b></span><span class="card-key">1</span>
+            <span class="card-art art-knight"><svg viewBox="0 0 150 126" aria-hidden="true"><defs><linearGradient id="knight-armor" x2="1" y2="1"><stop stop-color="#dfebe1"/><stop offset="1" stop-color="#7baba8"/></linearGradient></defs><path d="M20 126 26 88l29-12 40 0 30 12 8 38Z" fill="#20484e"/><path d="m31 87 28-10 16 16 16-16 28 10-8 39H39Z" fill="#4e7b78"/><path d="M55 61h40v29L75 104 55 88Z" fill="#9fc2b3"/><path d="m48 38 26-14 29 14 3 37-31 21-29-20Z" fill="url(#knight-armor)"/><path d="m74 25 1 69 30-19-2-37Z" fill="#95b6ae"/><path d="m48 49 27 7 29-7-3 23-26 10-26-10Z" fill="#193a42"/><path d="m58 58 9 3v8l-9-3Zm26 3 9-3v8l-9 3Z" fill="#a4f6de"/><path d="m75 48-8-13 3-23 14 1-3 23Z" fill="#edb453"/><path d="m117 92 5-63 7-10 5 11-6 63Z" fill="#e4e8d2"/><path d="m118 81 19 3-1 6-20-3Z" fill="#eeb951"/><path d="m49 100 24 8 21-8-3 23H53Z" fill="#a7c5b5"/><path d="m21 95 18-7 6 24-20 6Z" fill="#9fc2b3"/></svg></span>
+            <span class="card-name">Bladeguard</span><span class="card-type">MELEE</span>
+          </button>
+          <button class="battle-card" data-card="archer" aria-label="Select Twin Rangers, 3 elixir, key 2" aria-pressed="false">
+            <span class="card-cost"><svg><use href="#i-gem"/></svg><b>3</b></span><span class="card-key">2</span>
+            <span class="card-art art-archer"><svg viewBox="0 0 150 126" aria-hidden="true"><path d="m78 126-8-31 15-23 37 0 22 24 4 30Z" fill="#2e5b4e"/><path d="m77 47 21-23 25 19 7 27-31 20-27-20Z" fill="#71956d"/><path d="m86 49 24-6 12 14-7 20-22 1-12-17Z" fill="#d3af85"/><path d="m80 53 20-26 24 23-24-6Z" fill="#426c50"/><path d="M100 58h4v5h-4m12-5h4v5h-4" stroke="#273b38" stroke-width="2"/><path d="m4 126 8-35 25-14h28l25 17 6 32Z" fill="#3b6853"/><path d="m29 44 21-25 27 24 5 33-31 19-27-18Z" fill="#90ae7b"/><path d="m34 53 17-14 23 12-5 26-16 8-19-12Z" fill="#e6c197"/><path d="m30 58 19-34 27 26-22-7Z" fill="#537c54"/><path d="m42 60 5 1m13-1 5-1" stroke="#243d36" stroke-width="4"/><path d="m39 79 15 6 17-8-5 20-13 5-16-11Z" fill="#dcb479"/><path d="M107 42q34 32 0 74" fill="none" stroke="#d2a46c" stroke-width="6"/><path d="m107 42 3 74" stroke="#d6d3ab" fill="none"/><path d="m97 88 36-29m-8 1 9-3-4 9" fill="none" stroke="#e7d8a8" stroke-width="3"/></svg></span>
+            <span class="card-name">Twin Rangers</span><span class="card-type">RANGED</span>
+          </button>
+          <button class="battle-card" data-card="giant" aria-label="Select Stone Giant, 5 elixir, key 3" aria-pressed="false">
+            <span class="card-cost"><svg><use href="#i-gem"/></svg><b>5</b></span><span class="card-key">3</span>
+            <span class="card-art art-giant"><svg viewBox="0 0 150 126" aria-hidden="true"><path d="m4 126 0-29 17-21 25 4-5 46Zm109 0-6-44 24-7 19 24v27Z" fill="#a89679"/><path d="m26 126 1-31 19-23h58l18 24-1 30Z" fill="#8d8570"/><path d="m45 89 29-12 32 15-8 34H49Z" fill="#b0a486"/><path d="m44 39 22-15 25 0 20 19-6 35-29 17-32-19Z" fill="#c2b296"/><path d="m76 26 1 67 27-17 7-33-20-19Z" fill="#aa9b7e"/><path d="m46 54 18 2 3 10-18-2m34-7 21-4-5 12-17 3" fill="#3d5148"/><path d="m51 58 12 2m23 1 13-3" stroke="#baffcd" stroke-width="4"/><path d="m60 79 15-6 16 3-5 7H66Z" fill="#716f5c"/><path d="m52 36 10-9 14 2-6 7 6 8-16 1Z" fill="#78965c"/><path d="m21 83 14 4-2 19-16-5Z" fill="#c7b694"/><path d="m47 100 21 6-5 20H45Zm39 8 19-8-7 26H81Z" fill="#bcae91"/><path d="m116 85 16 4 7 18-16-2Z" fill="#c9b99a"/><path d="m97 83 9-8 10 8-5 10Z" fill="#73935b"/></svg></span>
+            <span class="card-name">Stone Giant</span><span class="card-type">TANK</span>
+          </button>
+          <button class="battle-card" data-card="fireball" aria-label="Select Fireball, 4 elixir, key 4" aria-pressed="false">
+            <span class="card-cost"><svg><use href="#i-gem"/></svg><b>4</b></span><span class="card-key">4</span>
+            <span class="card-art art-fireball"><svg viewBox="0 0 150 126" aria-hidden="true"><defs><radialGradient id="fire-glow"><stop stop-color="#ffb858" stop-opacity=".5"/><stop offset="1" stop-color="#ef724a" stop-opacity="0"/></radialGradient></defs><circle cx="77" cy="71" r="58" fill="url(#fire-glow)"/><path d="m40 99-2-28 16-21 12-36 12 25 21-14-2 22 25-10-11 32 6 16-21 27-26 5Z" fill="#d7683e"/><path d="m52 96-2-23 20-24 5-20 12 29 22-8-12 27 3 21-17 12-18-1Z" fill="#f5a446"/><path d="m62 95-2-17 18-22 2 23 10-8 3 25-14 10Z" fill="#f9e7a4"/><path d="m37 46-6-12-3 14 5 7Zm80 58 11-11-2 16-7 4ZM96 15l6 9-3 9-5-9ZM32 83l-8-7 1 15 6 4Z" fill="#f0b664"/><path d="m40 114 63-2" stroke="#7f4939" stroke-width="3" stroke-linecap="round"/></svg></span>
+            <span class="card-name">Fireball</span><span class="card-type">SPELL</span>
+          </button>
+        </div>
+        <div class="elixir-container"><span class="elixir-icon"><svg><use href="#i-gem"/></svg></span><span class="elixir-label">ELIXIR</span><div class="elixir-track"><div id="elixir-fill"></div><div class="elixir-segments" aria-hidden="true"></div></div><span class="elixir-amount"><b id="elixir-value">7</b><span>/ 10</span></span></div>
+      </div>
+      <div class="deploy-guide"><span><strong id="selected-name">Bladeguard</strong><span class="deploy-dot">·</span><span id="deployment-hint">Select a card to plan your push</span></span><span class="deploy-key"><kbd>E</kbd> DEPLOY</span></div>
+    </section>
+
+    <div class="game-controls-hint"><span><kbd>WASD</kbd> MOVE</span><span><kbd>SPACE</kbd> JUMP</span><span><kbd>V</kbd> CAMERA</span></div>
+    <div class="arena-version">CROWNBOUND <span>ALPHA 01</span></div>
+
+    <section id="pause-overlay" class="modal-overlay hidden" aria-labelledby="pause-title"><div class="modal-card"><span class="modal-emblem"><svg><use href="#i-pause"/></svg></span><p class="eyebrow">TAKE A BREATHER</p><h2 id="pause-title">Battle paused.</h2><p>Your kingdom can wait a moment.</p><button id="resume-button" class="primary-button">Back to battle <svg><use href="#i-arrow"/></svg></button><button id="restart-button" class="secondary-button">Start a new battle</button><button id="menu-button" class="secondary-button">Return to main menu</button></div></section>
+    <section id="help-overlay" class="modal-overlay hidden" aria-labelledby="help-title"><div class="modal-card help-card"><button id="close-help" class="icon-button modal-close" aria-label="Close controls"><svg><use href="#i-close"/></svg></button><p class="eyebrow">A LITTLE FIELD TRAINING</p><h2 id="help-title">Make your move.</h2><p>Destroy the enemy crown tower before time runs out. Your cards summon allies. Your sword leads the way.</p><div class="controls-grid"><span>Move</span><kbd>W A S D</kbd><span>Look around</span><kbd>MOUSE</kbd><span>Jump / Sprint</span><span><kbd>SPACE</kbd> / <kbd>SHIFT</kbd></span><span>Sword strike</span><kbd>LEFT CLICK</kbd><span>Select a card</span><kbd>1 — 4</kbd><span>Deploy / Cast</span><span><kbd>E</kbd> / <kbd>RIGHT CLICK</kbd></span><span>Switch camera</span><kbd>V</kbd><span>Pause</span><kbd>ESC</kbd></div><div class="help-tip"><svg><use href="#i-gem"/></svg><span>Elixir refills over time. Deploy your squad on your side of the river, then cross a bridge and lead the attack.</span></div></div></section>
+    <section id="result-overlay" class="modal-overlay hidden" aria-labelledby="result-title"><div class="modal-card result-card"><span class="modal-emblem crown-emblem"><svg><use href="#i-crown"/></svg></span><p class="eyebrow">THE CROWN HAS SPOKEN</p><h2 id="result-title">Victory is yours.</h2><p id="result-detail">A battle well fought.</p><div id="result-score" class="result-score">0 — 0</div><p id="result-stats" class="result-stats"></p><button id="play-again" class="primary-button">One more battle <svg><use href="#i-arrow"/></svg></button></div></section>
+    <section id="respawn-overlay" class="hidden" aria-live="polite"><span class="eyebrow">BACK IN THE FIGHT IN</span><strong id="respawn-count">3</strong><span>Your army is still pushing.</span></section>
+
+    <div id="touch-controls" aria-label="Touch game controls"><div class="touch-movement"><button data-touch="forward" aria-label="Move forward">↑</button><button data-touch="left" aria-label="Move left">←</button><button data-touch="backward" aria-label="Move backward">↓</button><button data-touch="right" aria-label="Move right">→</button></div><div class="touch-actions"><button data-touch="jump" aria-label="Jump">JUMP</button><button data-touch="attack" aria-label="Sword attack"><svg><use href="#i-sword"/></svg></button><button data-touch="deploy" aria-label="Deploy selected card">DEPLOY</button></div></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
